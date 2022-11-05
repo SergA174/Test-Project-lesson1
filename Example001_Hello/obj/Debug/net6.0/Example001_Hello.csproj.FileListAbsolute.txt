@@ -1,0 +1,15 @@
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\bin\Debug\net6.0\Example001_Hello.exe
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\bin\Debug\net6.0\Example001_Hello.deps.json
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\bin\Debug\net6.0\Example001_Hello.runtimeconfig.json
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\bin\Debug\net6.0\Example001_Hello.dll
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\bin\Debug\net6.0\Example001_Hello.pdb
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.csproj.AssemblyReference.cache
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.AssemblyInfoInputs.cache
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.AssemblyInfo.cs
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.csproj.CoreCompileInputs.cache
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.dll
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\refint\Example001_Hello.dll
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.pdb
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\Example001_Hello.genruntimeconfig.cache
+D:\Обучение IT\1 четверть\3Знакомство с языками программирования\Первые программы (образцы)\Examples\Example001_Hello\obj\Debug\net6.0\ref\Example001_Hello.dll
